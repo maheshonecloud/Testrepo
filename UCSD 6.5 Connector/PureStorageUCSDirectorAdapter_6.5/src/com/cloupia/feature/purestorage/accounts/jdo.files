@@ -1,0 +1,11 @@
++FlashArrayAccount
++HostInventoryConfig
++VolumeInventoryConfig
++HostGroupInventoryConfig
++FcPortInventoryConfig
++IqnPortInventoryConfig
++ArrayInventoryConfig
++SpaceInventoryConfig
++HostConnectionInventoryConfig
++SnapshotInventoryConfig
++NetworkInventoryConfig
